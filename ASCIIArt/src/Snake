@@ -1,0 +1,36 @@
+3 objects/ 3 properties and behaviours / 2 pre and post conditions for design phase
+
+Object 1: Snake
+    Prop1: Type of snake
+    Prop2: Size of snake
+    Prop3: Does it work here?
+
+    Behav1: Name
+    Behav2: Color
+    Behav3: Delivery route
+
+Object 2: Box
+    Prop1: Type of box
+    Prop2: size of box
+    Prop3: object in box
+
+    Behav1: Label
+    Behav2: Color
+    Behav3: Bubble wrap
+
+Object 3: Customer
+    Prop1: Do they have account?
+    Prop2: Address
+    Prop3: Payment method
+
+    Behav1: Name
+    Behav2: Order history
+    Behav3: Are they ordering a package?
+
+PreConditions
+    1: Did the customer pay?
+    2: Can we deliever to the customer's area
+
+PostConditions
+    1: Did the customer get the package?
+    2: What is the customer's rating?
